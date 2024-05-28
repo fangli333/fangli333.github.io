@@ -26,6 +26,12 @@ author_profile: true
     Hao Zhang, <b>Fang Li</b>, Lu Qi, Ming-Hsuan Yang, Narendra Ahuja  
     <br><i>AAAI 2024</i>
     <br>[[Paper]](https://arxiv.org/abs/2312.05538)
+    
+1.  <b>CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen</b>  
+    Hao Zhang, <b>Fang Li</b>, Lu Qi, Ming-Hsuan Yang, Narendra Ahuja  
+    <i>AAAI 2024</i>  
+    [[Paper]](https://arxiv.org/abs/2312.05538)
+
 
 1.  <b>Open-NeRF: Towards Open Vocabulary NeRF Decomposition</b> <br>
     Hao Zhang, <b>Fang Li</b>, Narendra Ahuja  
