@@ -11,16 +11,17 @@ Welcome! I am a first year Ph.D. student in [Electrical and Computer Engineering
 
 Research
 ======
-My research interests lie in **3D/4D Vision** including • Reconstruction • Generation • Segmentation • Self-Calibration • Novel View Synthesis. 
+My research interests lie in **3D/4D Vision** including • Reconstruction • Generation • Segmentation • Self-Calibration • Novel View Synthesis. <br>
+Welcome to email me about collaborations and discussions if you are interested.
 
 Current
 ======
 <span style="color:red">I am seeking Research intern opportunities in Summer 2025. Happy to discuss potential fits.</span> <br>
-<span style="color:blue">Welcome to email me about collaborations and discussions if you are interested.</span>
 
 News
 ======
 May 22, 2024 - Reviewer of NeurIPS 2024.<br>
 April 15, 2024 - Happy to stay at UIUC for my PhD program.
+Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.
 
 
