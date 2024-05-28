@@ -24,4 +24,11 @@ May 22, 2024 - Reviewer of NeurIPS 2024.<br>
 April 15, 2024 - Happy to stay at UIUC for my PhD program.
 Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.
 
+Education
+======
+• Ph.D. - Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2024 - Present. <br>
+• M.S. - Industrial Engineering, University of Illinois at Urbana-Champaign, 2021 - 2023. <br>
+• B.S. - Engineering Management, Hebei University of Technology, 2017 - 2023. <br>
+
+
 
