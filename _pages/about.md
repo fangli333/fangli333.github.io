@@ -20,7 +20,7 @@ Current
 
 News
 ======
-May 22 2024 - Reviewer of NeurIPS 2024.
+May 22 2024 - Reviewer of NeurIPS 2024.<br>
 April 15 2024 - Happy to join UIUC for my PhD program.
 
 
