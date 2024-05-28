@@ -12,7 +12,7 @@ Welcome! I am a first-year Ph.D. student in [Electrical and Computer Engineering
 Research
 ======
 My research interests lie in **3D/4D Vision** including • Reconstruction • Generation • Segmentation • Self-Calibration • Novel View Synthesis. <br>
-Welcome to email me about collaborations and discussions if you are interested.<br>
+<p style="text-decoration: underline;">Welcome to email me about collaborations and discussions if you are interested.</p> <br>
 
 Current
 ======
@@ -22,6 +22,10 @@ News
 ======
 April 15, 2024 - Happy to stay at UIUC for my Ph.D. program.<br>
 Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
+
+Experiences
+======
+
 
 Professional Activities
 ======
@@ -33,7 +37,7 @@ Education
 ======
 • Ph.D. - Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2024 - Present. <br>
 • M.S. - Industrial Engineering, University of Illinois at Urbana-Champaign, 2021 - 2023. <br>
-• B.S. - Engineering Management, Hebei University of Technology, 2017 - 2023. <br>
+• B.S. - Engineering Management, Hebei University of Technology, 2017 - 2021. <br>
 
 
 
