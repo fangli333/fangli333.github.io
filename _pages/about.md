@@ -15,12 +15,12 @@ My research interests lie in **3D/4D Vision** including • Reconstruction • G
 
 Current
 ======
-<span style="color:red">I am seeking Research intern position in Summer 2025. Happy to discuss potential fits.</span>
+<span style="color:red">I am seeking potential Research intern positions in Summer 2025. Happy to discuss potential fits.</span>
 <span style="color:blue">Welcome to email me about collaborations and discussions if you are interested.</span>
 
 News
 ======
-May 22 2024 - Reviewer of NeurIPS 2024.<br>
-April 15 2024 - Happy to join UIUC for my PhD program.
+May 22, 2024 - Reviewer of NeurIPS 2024.<br>
+April 15, 2024 - Happy to stay at UIUC for my PhD program.
 
 
