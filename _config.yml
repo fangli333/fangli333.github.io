@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Fang Li 李放1"
+  avatar           : "FL.png"
+  name             : "Fang Li 李放"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student @ ECE @ UIUC"
   location         : "Urbana, IL"
