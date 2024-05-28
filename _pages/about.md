@@ -12,7 +12,7 @@ Welcome! I am a first-year Ph.D. student in [Electrical and Computer Engineering
 Research
 ======
 My research interests lie in **3D/4D Vision** including • Reconstruction • Generation • Segmentation • Self-Calibration • Novel View Synthesis. <br>
-<u>Welcome to email me about collaborations and discussions if you are interested.</u> <br>
+<u>Welcome to email me on collaborations and discussions if you are interested.</u> <br>
 
 Current
 ======
