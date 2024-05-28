@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an incoming PhD student (starting at 2024 Fall) in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master program in UIUC.
+Welcome! I am a first year Ph.D. student in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master's program at UIUC.
 
 Research
 ======
