@@ -12,7 +12,7 @@ author_profile: true
 
     
 ## Conference Papers
-1.  <b>S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video</b> <be>
+1.  <b>S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video</b> <br>
     Hao Zhang, <b>Fang Li</b>, Samyak Rawlekar, Narendra Ahuja 
     <br><i>ICML 2024</i>
     <br>[[Paper]](https://arxiv.org/abs/2405.12607)
