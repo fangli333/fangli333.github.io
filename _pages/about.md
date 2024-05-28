@@ -20,9 +20,12 @@ Current
 
 News
 ======
-May 22, 2024 - Reviewer of NeurIPS 2024.<br>
 April 15, 2024 - Happy to stay at UIUC for my Ph.D. program.<br>
-Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<br>
+Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
+
+Review
+======
+NeurIPS 2024
 
 Education
 ======
