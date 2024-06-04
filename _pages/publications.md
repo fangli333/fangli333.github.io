@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Preprint
+1.  <b>Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting</b>  
+    <b>Fang Li</b>, Hao Zhang, Narendra Ahuja   
+    [[Paper]](https://arxiv.org/abs/2406.01042v1)
+
 1.  <b>MagicPose4D: Crafting Articulated Models with Appearance and Motion Control</b>  
     Hao Zhang, Di Chang, <b>Fang Li</b>, Mohammad Soleymani, Narendra Ahuja   
     [[Paper]](https://arxiv.org/abs/2405.14017v1)
