@@ -76,12 +76,36 @@
    Author profile and links
    ========================================================================== */
 
+// .author__avatar {
+//   display: table-cell;
+//   vertical-align: top;
+//   width: 36px;
+//   // set width only, for non-square avatars
+//   // height: 36px;
+
+//   @include breakpoint($large) {
+//     display: block;
+//     width: auto;
+//     height: auto;
+//   }
+
+//   img {
+//     max-width: 175px;
+//     border-radius: 50%;
+
+
+//     @include breakpoint($large) {
+//       padding: 5px;
+//       border: 1px solid $border-color;
+//     }
+//   }
+// }
+
+
 .author__avatar {
-  // display: table-cell;
-  // vertical-align: top;
+  display: table-cell;
+  vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -91,16 +115,22 @@
 
   img {
     max-width: 175px;
-    border-radius: 0;
-    width: 100%; /* Ensure it fills its container */
-    height: auto;
+    border-radius: 0 !important; /* Force removal of any rounding */
+    width: 100% !important; /* Ensure it fills its container */
+    height: auto !important; /* Maintain aspect ratio */
+    object-fit: cover !important; /* Ensure the image covers its container */
+    display: block !important; /* Ensure the image is block-level to avoid inline spacing issues */
+    margin: 0 !important; /* Remove any margin */
+    padding: 0 !important; /* Remove any padding */
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 5px; /* Padding inside larger viewports */
+      border: 1px solid $border-color; /* Border for larger viewports */
     }
   }
 }
+
+
 
 .author__content {
   display: table-cell;
