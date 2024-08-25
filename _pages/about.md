@@ -29,7 +29,8 @@ Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
 Professional Activities
 ======
 - **Reviewer**:
-  - Conference: NeurIPS 2024.
+  - Conference: NeurIPS 2024, ICLR 2025.
+  - Journal: International Journal of Computer Vision (Aug 2024).
   
 
 Education
