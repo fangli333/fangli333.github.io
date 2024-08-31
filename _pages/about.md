@@ -30,7 +30,7 @@ Professional Activities
 ======
 - **Reviewer**:
   - Conference: NeurIPS 2024, ICLR 2025.
-  - Journal: IJCV (Sep 2024).
+  - Journal: IJCV.
   
 
 Education
