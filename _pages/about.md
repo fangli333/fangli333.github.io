@@ -11,7 +11,7 @@ Welcome! I am a first-year Ph.D. student (08/2024 - ) in [Electrical and Compute
 
 Research
 ======
-In-the-wild (General) 3D/4D Vision: (1) Visual Localization; (2) Reconstruction; (3) NVS; (4) Understanding; (5) Segmentation. <br>
+In-the-wild/general 4D Vision: (1) Visual Localization; (2) Reconstruction; (3) NVS; (4) Understanding; (5) Segmentation. <br>
 <u>Welcome to email me on collaborations and discussions if you are interested.</u> <br>
 
 Current
@@ -29,7 +29,7 @@ Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
 Professional Activities
 ======
 - **Reviewer**:
-  - Conference: NeurIPS2024, ICLR2025, CVPR2025.
+  - Conference: NeurIPS2024, ICLR2025, CVPR2025, ICML2025.
   - Journal: IJCV.
   
 
