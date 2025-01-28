@@ -30,7 +30,7 @@ Professional Activities
 ======
 - **Reviewer**:
   - Conference: NeurIPS2024, ICLR2025, CVPR2025, ICML2025.
-  - Journal: IJCV.
+  - Journal: International Journal of Computer Vision (IJCV), Transactions on Machine Learning Research (TMLR).
   
 
 Education
