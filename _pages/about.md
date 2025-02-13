@@ -29,7 +29,7 @@ Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
 Professional Activities
 ======
 - **Reviewer**:
-  - Conference: NeurIPS2024, ICLR2025, CVPR2025, ICML2025.
+  - Conference: NeurIPS, ICLR, CVPR, ICML, ICCV.
   - Journal: International Journal of Computer Vision (IJCV), Transactions on Machine Learning Research (TMLR).
   
 
