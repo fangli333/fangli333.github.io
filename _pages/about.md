@@ -16,14 +16,7 @@ In-the-wild/general 4D Vision: (1) Visual Localization; (2) Reconstruction; (3) 
 
 Current
 ======
-<span style="color:red">I am seeking Research intern opportunities in Summer 2025. Happy to discuss potential fits.</span> <br>
-
-News
-======
-April 15, 2024 - Happy to stay at UIUC for my Ph.D. program.<br>
-Before - Papers accepted by AAAI 2024, WACV 2024, ICLR 2024, ICML 2024.<be>
-
-
+<span style="color:red">I am seeking part-time Research intern opportunities in the 2025 fall semester. Happy to discuss potential fits.</span> <br>
 
 
 Professional Activities
