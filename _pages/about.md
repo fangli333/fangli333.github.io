@@ -20,7 +20,7 @@ Current
 
 Work Experience
 ======
-- **HP Inc | CA | ML Research Intern | May 2025 - Aug 2025**:
+- **HP Inc, CA | ML Research Intern | May 2025 - Aug 2025**:
   - Advisor: [Dr. Kar-Han Tan](https://karhan-tan.github.io/)
 
   
