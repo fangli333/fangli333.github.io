@@ -18,7 +18,7 @@ In-the-wild/general 4D Vision: (1) Visual Localization; (2) Reconstruction; (3) 
 
 Work Experience
 ======
-- **HP Inc, CA | ML Research Intern | May 2025 - Aug 2025**:
+- **HP Inc, CA - ML Research Intern (May 2025 - Aug 2025)**:
   - Advisor: [Dr. Kar-Han Tan](https://karhan-tan.github.io/)
 
   
