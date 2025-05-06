@@ -16,15 +16,22 @@ In-the-wild/general 4D Vision: (1) Visual Localization; (2) Reconstruction; (3) 
 
 Current
 ======
-<span style="color:red">I am seeking part-time Research intern opportunities in the 2025 fall semester. Happy to discuss potential fits.</span> <br>
+<span style="color:red">I am seeking part-time Research intern opportunities in the 2025 fall semester. Happy to discuss potential fits.</span> <be>
 
+Work Experience
+======
+- **HP Inc | CA | ML Research Intern | May 2025 - Aug 2025**:
+  - Advisor: [Dr. Kar-Han Tan](https://karhan-tan.github.io/)
 
-Professional Activities
+  
+Professional Activities&Honors
 ======
 - **Reviewer**:
   - Conference: NeurIPS, ICLR, CVPR, ICML, ICCV.
   - Journal: International Journal of Computer Vision (IJCV), Transactions on Machine Learning Research (TMLR).
-  
+
+- **Honors**:
+  - James M. Henderson Fellowship | 2025-2026 academic year.
 
 Education
 ======
