@@ -29,7 +29,7 @@ Professional Activities&Honors
   - Journal: International Journal of Computer Vision (IJCV), Transactions on Machine Learning Research (TMLR).
 
 - **Honors**:
-  - James M. Henderson Fellowship | 2025-2026 academic year.
+  - James M. Henderson Fellowship, 2025-2026 academic year.
 
 Education
 ======
