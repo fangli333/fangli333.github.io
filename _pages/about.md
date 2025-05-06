@@ -11,8 +11,7 @@ Welcome! I am a first-year Ph.D. student (08/2024 - ) in [Electrical and Compute
 
 Research
 ======
-In-the-wild/general 4D Vision: (1) Visual Localization; (2) Reconstruction; (3) NVS; (4) Understanding; (5) Segmentation. <br>
-<u>Welcome to email me on collaborations and discussions if you are interested.</u> <br>
+4D Vision: (1) Visual Odometry; (2) Reconstruction/NVS; (3) Understanding. <br>
 
 
 
