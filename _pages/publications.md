@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
-    
 ## Conference Papers
 <b>RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes</b>  
     <b>Fang Li</b>, Hao Zhang, Narendra Ahuja   
