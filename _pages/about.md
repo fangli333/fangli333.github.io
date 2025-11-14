@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 2nd-year Ph.D. student (08/2024 - ) in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master's program at UIUC. Here is my [CV](/files/Fang_Li%20CV.pdf)
+Welcome! I am a 2nd-year Ph.D. student (08/2024 - ) in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master's program at UIUC. Here is my [CV](/files/Fang_Li_CV.pdf)
 .
 
 <span style="color:red">I am seeking full-time Research intern opportunities in the 2026 summer. Happy to discuss potential fits.</span> <be>
