@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a Ph.D student in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master's program at UIUC.
 
-<span style="color:red">I am seeking full-time Research intern opportunities in the 2027 summer. Happy to discuss potential fits.</span> <be>
+<span style="color:blue">I am seeking full-time Research intern opportunities in the 2027 summer. Happy to discuss potential fits.</span> <be>
 
 Research
 ======
@@ -28,9 +28,9 @@ Publication
 ======
 
 <b>S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens</b>  
-    <b>Fang Li</b>, Jiraphon Yenphraphai, Quentin Herau, Depu Meng, Yihan Hu, Tianshuo Xu, Narendra Ahuja, Wei Zhan
+    <b>Fang Li</b>, Jiraphon Yenphraphai, Quentin Herau, Depu Meng, Yihan Hu, Tianshuo Xu, Narendra Ahuja, Wei Zhan<br>
     Under Review<br>
-    [[Project Page]](https://s2tok.github.io/) [[Code]](https://github.com/fangli333/ROS-Cam) [[Paper]](https://github.com/fangli333/ROS-Cam)
+    [[Project Page]](https://s2tok.github.io/)
 
 <b>RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes</b>  
     <b>Fang Li</b>, Hao Zhang, Narendra Ahuja   
