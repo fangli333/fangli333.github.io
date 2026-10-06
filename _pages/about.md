@@ -1,80 +1,39 @@
 ---
 permalink: /
-title: "Profile"
-author_profile: true
-redirect_from: 
+title: "Fang Li 李放"
+layout: academic
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am a Ph.D student in [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), where my advisor is Prof. [Narendra Ahuja](https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&hl=en). Before that, I was fortunate to work with [Volodymyr Kindratenko](https://ece.illinois.edu/about/directory/faculty/kindrtnk) during my master's program at UIUC.
+<a class="skip" href="#biography">Skip to content</a><main>
+<header class="profile"><img class="portrait" src="/images/FL.png" alt="Fang Li" width="190" height="220"><div><h1>Fang Li <span lang="zh">李放</span></h1><p class="position">Ph.D. Candidate @ UIUC</p><p>Electrical and Computer Engineering<br>Advisor: <a href="https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&amp;hl=en">Prof. Narendra Ahuja</a></p><a href="mailto:fangli3@illinois.edu">fangli3@illinois.edu</a><nav class="profile-links" aria-label="Profile links"><a href="/CV.pdf">CV</a><a href="https://scholar.google.com/citations?user=WybiEu0AAAAJ&amp;hl=en">Google Scholar</a><a href="https://github.com/fangli333">GitHub</a><a href="https://www.linkedin.com/in/fang-li-8ab696223/">LinkedIn</a></nav></div></header>
+<section id="biography"><h2>Biography</h2><p>I am a Ph.D. candidate in <a href="https://ece.illinois.edu/">Electrical and Computer Engineering</a> at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>, advised by Prof. Narendra Ahuja. Previously, I worked with <a href="https://ece.illinois.edu/about/directory/faculty/kindrtnk">Volodymyr Kindratenko</a> during my master’s program at UIUC.</p><p>My research focuses on 3D scene tokenization, reconstruction, generation, and localization.</p><p class="notice">I am seeking full-time research internship opportunities for summer 2027. Happy to discuss potential fits.</p></section>
 
-<span style="color:blue">I am seeking full-time Research intern opportunities in the 2027 summer. Happy to discuss potential fits.</span> <be>
+<section id="news"><h2>News</h2><ul class="news"><li><time>Sep 2026</time><span>Completed my research internship at Applied Intuition.</span></li><li><time>May 2026</time><span>Joined Applied Intuition as a Research Intern.</span></li><li><time>2025</time><span>ROS-Cam accepted to <strong class="spotlight">NeurIPS 2025 · Spotlight</strong>.</span></li><li><time>2025–2026</time><span>Awarded the James M. Henderson Fellowship.</span></li></ul></section>
 
-Research
-======
-3D Scene Tokenization/Reconstruction/Generation/Localization <br>
+<section id="publications"><h2>Selected Publications</h2>
+<article class="publication"><a class="teaser" href="https://s2tok.github.io/"><img src="/images/publications/s2tok.jpg" alt="S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens — research preview" loading="lazy" width="560" height="320"></a><div><h3>S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens</h3><p class="authors"><b>Fang Li</b>, Jiraphon Yenphraphai, Quentin Herau, Depu Meng, Yihan Hu, Tianshuo Xu, Narendra Ahuja, Wei Zhan</p><p class="venue ">Under Review</p><nav class="paper-links" aria-label="S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens resources"><a href="https://s2tok.github.io/">Project</a></nav></div></article>
 
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2509.15123"><img src="/images/publications/RGB-Only.webp" alt="RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes — research preview" loading="lazy" width="560" height="320"></a><div><h3>RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes</h3><p class="authors"><b>Fang Li</b>, Hao Zhang, Narendra Ahuja</p><p class="venue spotlight">NeurIPS 2025 · Spotlight</p><nav class="paper-links" aria-label="RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes resources"><a href="https://arxiv.org/abs/2509.15123">Paper</a><a href="https://github.com/fangli333/ROS-Cam">Code</a></nav></div></article>
 
-Work Experience
-======
-- **Applied Intuition, CA - Research Intern (May 2026 - Sep 2026)**:
-  - Advisor: [Dr. Wei Zhan](https://zhanwei.site/)
-- **HP Inc, CA - ML Research Intern (May 2025 - Aug 2025)**:
-  - Advisor: [Dr. Kar-Han Tan](https://karhan-tan.github.io/)
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2405.12607"><img src="/images/publications/S3O.webp" alt="S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video — research preview" loading="lazy" width="560" height="320"></a><div><h3>S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video</h3><p class="authors">Hao Zhang, <b>Fang Li</b>, Samyak Rawlekar, Narendra Ahuja</p><p class="venue ">ICML 2024</p><nav class="paper-links" aria-label="S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video resources"><a href="https://arxiv.org/abs/2405.12607">Paper</a></nav></div></article>
 
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2405.14017v1"><img src="/images/publications/MagicPose4D.webp" alt="MagicPose4D: Crafting Articulated Models with Appearance and Motion Control — research preview" loading="lazy" width="560" height="320"></a><div><h3>MagicPose4D: Crafting Articulated Models with Appearance and Motion Control</h3><p class="authors">Hao Zhang, Di Chang, <b>Fang Li</b>, Mohammad Soleymani, Narendra Ahuja</p><p class="venue ">TMLR</p><nav class="paper-links" aria-label="MagicPose4D: Crafting Articulated Models with Appearance and Motion Control resources"><a href="https://arxiv.org/abs/2405.14017v1">Paper</a><a href="https://boese0601.github.io/magicpose4d/">Project</a><a href="https://github.com/haoz19/MagicPose4D">Code</a></nav></div></article>
 
-Publication
-======
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2401.08809"><img src="/images/publications/LIMR.webp" alt="Learning Implicit Representation for Reconstructing Articulated Objects — research preview" loading="lazy" width="560" height="320"></a><div><h3>Learning Implicit Representation for Reconstructing Articulated Objects</h3><p class="authors">Hao Zhang, <b>Fang Li</b>, Samyak Rawlekar, Narendra Ahuja</p><p class="venue ">ICLR 2024</p><nav class="paper-links" aria-label="Learning Implicit Representation for Reconstructing Articulated Objects resources"><a href="https://arxiv.org/abs/2401.08809">Paper</a></nav></div></article>
 
-<b>S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens</b>  
-    <b>Fang Li</b>, Jiraphon Yenphraphai, Quentin Herau, Depu Meng, Yihan Hu, Tianshuo Xu, Narendra Ahuja, Wei Zhan<br>
-    Under Review<br>
-    [[Project Page]](https://s2tok.github.io/)
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2312.05538"><img src="/images/publications/CSL.webp" alt="CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen — research preview" loading="lazy" width="560" height="320"></a><div><h3>CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen</h3><p class="authors">Hao Zhang, <b>Fang Li</b>, Lu Qi, Ming-Hsuan Yang, Narendra Ahuja</p><p class="venue ">AAAI 2024</p><nav class="paper-links" aria-label="CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen resources"><a href="https://arxiv.org/abs/2312.05538">Paper</a></nav></div></article>
 
-<b>RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes</b>  
-    <b>Fang Li</b>, Hao Zhang, Narendra Ahuja   
-    NeurIPS 2025 Spotlight🔥<br>
-    [[Paper]](https://arxiv.org/abs/2509.15123) [[Code]](https://github.com/fangli333/ROS-Cam)
+<article class="publication"><a class="teaser" href="https://arxiv.org/abs/2310.16383"><img src="/images/publications/OpenNeRF.webp" alt="Open-NeRF: Towards Open Vocabulary NeRF Decomposition — research preview" loading="lazy" width="560" height="320"></a><div><h3>Open-NeRF: Towards Open Vocabulary NeRF Decomposition</h3><p class="authors">Hao Zhang, <b>Fang Li</b>, Narendra Ahuja</p><p class="venue ">WACV 2024</p><nav class="paper-links" aria-label="Open-NeRF: Towards Open Vocabulary NeRF Decomposition resources"><a href="https://arxiv.org/abs/2310.16383">Paper</a></nav></div></article></section>
 
-<b>S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video</b>  
-    Hao Zhang, <b>Fang Li</b>, Samyak Rawlekar, Narendra Ahuja  
-    ICML 2024<br>
-    [[Paper]](https://arxiv.org/abs/2405.12607)
+<section id="awards"><h2>Awards</h2><div class="detail-row"><strong>James M. Henderson Fellowship</strong><span>2025–2026 academic year</span></div></section>
 
-<b>MagicPose4D: Crafting Articulated Models with Appearance and Motion Control</b><br>
-    Hao Zhang, Di Chang, <b>Fang Li</b>, Mohammad Soleymani, Narendra Ahuja<br>
-    TMLR<br>
-    [[Paper]](https://arxiv.org/abs/2405.14017v1)
+<section id="experiences"><h2>Experiences</h2><div class="detail-row"><div><h3>Applied Intuition, California</h3><p>Research Intern · Advisor: <a href="https://zhanwei.site/">Dr. Wei Zhan</a></p></div><span>May – Sep 2026</span></div><div class="detail-row"><div><h3>HP Inc., California</h3><p>ML Research Intern · Advisor: <a href="https://karhan-tan.github.io/">Dr. Kar-Han Tan</a></p></div><span>May – Aug 2025</span></div></section>
 
-<b>Learning Implicit Representation for Reconstructing Articulated Objects</b>  
-    Hao Zhang, <b>Fang Li</b>, Samyak Rawlekar, Narendra Ahuja  
-    ICLR 2024<br>
-    [[Paper]](https://arxiv.org/abs/2401.08809) 
-    
-<b>CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen</b>  
-    Hao Zhang, <b>Fang Li</b>, Lu Qi, Ming-Hsuan Yang, Narendra Ahuja  
-    AAAI 2024<br> 
-    [[Paper]](https://arxiv.org/abs/2312.05538)
+<section id="service"><h2>Professional Activities</h2><p><strong>Conference reviewer:</strong> NeurIPS, ICLR, CVPR, ICML, ICCV.</p><p><strong>Journal reviewer:</strong> International Journal of Computer Vision (IJCV); Transactions on Machine Learning Research (TMLR).</p></section>
 
-<b>Open-NeRF: Towards Open Vocabulary NeRF Decomposition</b>  
-    Hao Zhang, <b>Fang Li</b>, Narendra Ahuja    
-    WACV 2024<br>
-    [[Paper]](https://arxiv.org/abs/2310.16383)  
+<section id="education"><h2>Education</h2><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>Ph.D., Electrical and Computer Engineering</p></div><span>2024 – Present</span></div><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>M.S., Industrial Engineering</p></div><span>2021 – 2023</span></div><div class="detail-row"><div><h3>Hebei University of Technology</h3><p>B.S., Engineering Management</p></div><span>2017 – 2021</span></div></section>
 
-
-Professional Activities&Honors
-======
-- **Reviewer**:
-  - Conference: NeurIPS, ICLR, CVPR, ICML, ICCV.
-  - Journal: International Journal of Computer Vision (IJCV), Transactions on Machine Learning Research (TMLR).
-
-- **Honors**:
-  - James M. Henderson Fellowship, 2025-2026 academic year.
-
-Education
-======
-• Ph.D. - Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2024 - Present. <br>
-• M.S. - Industrial Engineering, University of Illinois at Urbana-Champaign, 2021 - 2023. <br>
-• B.S. - Engineering Management, Hebei University of Technology, 2017 - 2021. <br>
-
+<footer>© Fang Li · <a href="mailto:fangli3@illinois.edu">Contact</a></footer></main>
