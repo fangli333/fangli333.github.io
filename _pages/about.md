@@ -26,12 +26,10 @@ redirect_from:
 
 <article class="publication"><a class="teaser" href="https://arxiv.org/abs/2310.16383"><img src="/images/publications/OpenNeRF.webp" alt="Open-NeRF: Towards Open Vocabulary NeRF Decomposition — research preview" loading="lazy" width="560" height="320"></a><div><h3>Open-NeRF: Towards Open Vocabulary NeRF Decomposition</h3><p class="authors">Hao Zhang, <b>Fang Li</b>, Narendra Ahuja</p><p class="venue ">WACV 2024</p><nav class="paper-links" aria-label="Open-NeRF: Towards Open Vocabulary NeRF Decomposition resources"><a href="https://arxiv.org/abs/2310.16383">Paper</a></nav></div></article></section>
 
-<section id="awards"><h2>Awards</h2><div class="detail-row"><strong>James M. Henderson Fellowship</strong><span>2025–2026 academic year</span></div></section>
-
 <section id="experiences"><h2>Experiences</h2><div class="detail-row"><div><h3>Applied Intuition, California</h3><p>Research Intern · Advisor: <a href="https://zhanwei.site/">Dr. Wei Zhan</a></p></div><span>May – Sep 2026</span></div><div class="detail-row"><div><h3>HP Inc., California</h3><p>ML Research Intern · Advisor: <a href="https://karhan-tan.github.io/">Dr. Kar-Han Tan</a></p></div><span>May – Aug 2025</span></div></section>
 
 <section id="service"><h2>Professional Activities</h2><p><strong>Conference reviewer:</strong> NeurIPS, ICLR, CVPR, ICML, ICCV.</p><p><strong>Journal reviewer:</strong> International Journal of Computer Vision (IJCV); Transactions on Machine Learning Research (TMLR).</p></section>
 
-<section id="education"><h2>Education</h2><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>Ph.D., Electrical and Computer Engineering</p></div><span>2024 – Present</span></div><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>M.S., Industrial Engineering</p></div><span>2021 – 2023</span></div><div class="detail-row"><div><h3>Hebei University of Technology</h3><p>B.S., Engineering Management</p></div><span>2017 – 2021</span></div></section>
+<section id="education"><h2>Education</h2><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>Ph.D., Electrical and Computer Engineering</p><p>James M. Henderson Fellowship · 2025–2026 academic year</p></div><span>2024 – Present</span></div><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>M.S., Industrial Engineering</p></div><span>2021 – 2023</span></div><div class="detail-row"><div><h3>Hebei University of Technology</h3><p>B.S., Engineering Management</p></div><span>2017 – 2021</span></div></section>
 
 <footer>© Fang Li · <a href="mailto:fangli3@illinois.edu">Contact</a></footer>
