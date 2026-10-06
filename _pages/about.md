@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<a class="skip" href="#biography">Skip to content</a><main>
+
 <header class="profile"><img class="portrait" src="/images/FL.png" alt="Fang Li" width="190" height="220"><div><h1>Fang Li <span lang="zh">李放</span></h1><p class="position">Ph.D. Candidate @ UIUC</p><p>Electrical and Computer Engineering<br>Advisor: <a href="https://scholar.google.ca/citations?user=dY7OSl0AAAAJ&amp;hl=en">Prof. Narendra Ahuja</a></p><a href="mailto:fangli3@illinois.edu">fangli3@illinois.edu</a><nav class="profile-links" aria-label="Profile links"><a href="/CV.pdf">CV</a><a href="https://scholar.google.com/citations?user=WybiEu0AAAAJ&amp;hl=en">Google Scholar</a><a href="https://github.com/fangli333">GitHub</a><a href="https://www.linkedin.com/in/fang-li-8ab696223/">LinkedIn</a></nav></div></header>
 <section id="biography"><h2>Biography</h2><p>I am a Ph.D. candidate in <a href="https://ece.illinois.edu/">Electrical and Computer Engineering</a> at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>, advised by Prof. Narendra Ahuja. Previously, I worked with <a href="https://ece.illinois.edu/about/directory/faculty/kindrtnk">Volodymyr Kindratenko</a> during my master’s program at UIUC.</p><p>My research focuses on 3D scene tokenization, reconstruction, generation, and localization.</p><p class="notice">I am seeking full-time research internship opportunities for summer 2027. Happy to discuss potential fits.</p></section>
 
@@ -36,4 +36,4 @@ redirect_from:
 
 <section id="education"><h2>Education</h2><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>Ph.D., Electrical and Computer Engineering</p></div><span>2024 – Present</span></div><div class="detail-row"><div><h3>University of Illinois Urbana-Champaign</h3><p>M.S., Industrial Engineering</p></div><span>2021 – 2023</span></div><div class="detail-row"><div><h3>Hebei University of Technology</h3><p>B.S., Engineering Management</p></div><span>2017 – 2021</span></div></section>
 
-<footer>© Fang Li · <a href="mailto:fangli3@illinois.edu">Contact</a></footer></main>
+<footer>© Fang Li · <a href="mailto:fangli3@illinois.edu">Contact</a></footer>
