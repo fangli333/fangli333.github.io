@@ -10,3 +10,5 @@ CSL: https://haoz19.github.io/assets/img/papers/CSL.webp
 OpenNeRF: https://haoz19.github.io/assets/img/papers/OpenNeRF.webp
 
 These figures illustrate papers coauthored by Fang Li. Original author credit is preserved in the homepage publication list.
+
+Building Rome from a Single Image: https://build-rome.github.io/assets/media/teaser_poster.jpg
